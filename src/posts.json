@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding Open Redirects",
+      "description": "A deep dive into what open redirects are and how to prevent them.",
+      "content": "Open redirects are a type of vulnerability that allows an attacker to redirect users to malicious sites. In this post, we will discuss how to identify and mitigate these issues.",
+      "date": "2023-09-20"
+    },
+    {
+      "id": 2,
+      "title": "Common Security Vulnerabilities",
+      "description": "An overview of common vulnerabilities in web applications and how to mitigate them.",
+      "content": "In this post, we will cover some of the most common vulnerabilities found in web applications, including SQL injection, XSS, and CSRF, along with prevention techniques.",
+      "date": "2023-09-18"
+    },
+    {
+      "id": 3,
+      "title": "Best Practices for Secure Coding",
+      "description": "Learn the best practices to ensure your code is secure and resilient against attacks.",
+      "content": "Learn about the best practices for writing secure code to protect your applications from various attacks and vulnerabilities.",
+      "date": "2023-09-15"
+    }
+  ]
+  
